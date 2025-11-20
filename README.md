@@ -52,7 +52,7 @@ These are the elements outlined in John Gruber’s original design document. All
 
 ### Image
 
-![Dừng lại thôi](https://www.youtube.com/watch?v=CLom7fJSzmc)
+![Dừng lại thôi(https://www.youtube.com/watch?v=CLom7fJSzmc)]
 
 ## Extended Syntax
 
